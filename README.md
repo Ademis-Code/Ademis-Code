@@ -26,7 +26,7 @@ I am a web programmer and an article writer, currently exploring and learning ne
 ---
 
 ### 👨‍💻 Recent Projects:
-- [API ToDo List](https://apitodo-xi.vercel.app) - 
+- [API ToDo List](https://apitodo-xi.vercel.app)
 
 Static Web Project API TODO List (Flask)
 This project is a web-based TODO list application using Flask as the backend. The app allows users to add, edit, and delete tasks via a RESTful API. Tasks are stored in memory and can be accessed through the provided endpoints. The static user interface is built with HTML and CSS, while the API is developed using Flask. This project is ideal for learning how to create a simple API with Flask and manage data in a static web application.
@@ -37,7 +37,8 @@ Key Features:
 * CRUD (Create, Read, Update, Delete) for tasks.
 * Static web with Flask API.
 
-- <a href="https://kanboard-pa4b.vercel.app" target="_blank">Kanban Board</a> -
+
+- [API ToDo List](https://kanboard-pa4b.vercel.app)
 
 Static Web Project Kanban Board (Flask & AJAX)
 This project is a web-based Kanban Board application using Flask as the backend and AJAX for dynamic interactions without page reloads. Users can create, move, and delete tasks across different columns (To Do, In Progress, Done). Flask manages the task data, while AJAX enables real-time task status updates. The user interface is built with CDN Bootstrap and JavaScript.
