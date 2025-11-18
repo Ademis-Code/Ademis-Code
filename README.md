@@ -7,9 +7,7 @@ I am a web programmer and an article writer, currently exploring and learning ne
 ### 💻 Languages & Tools:
 ![Languages](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%232776D2?style=flat&logo=python&logoColor=white)
-# ![React](https://img.shields.io/badge/React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB5?style=flat&logo=php&logoColor=white)
-# ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121?style=flat&logo=gitlab&logoColor=white)
 
