@@ -2,7 +2,7 @@ I am a web programmer and an article writer, currently exploring and learning ne
 
 ### 🌱 Currently Learning:
 - Python
-- Web Development (Flask, Django, Laravel, VueJs, React), Copywriting SEO.
+- Web Development (Flask, Django, Laravel), Copywriting SEO.
 
 ### 💻 Languages & Tools:
 ![Languages](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -37,7 +37,7 @@ Key Features:
 * CRUD (Create, Read, Update, Delete) for tasks.
 * Static web with Flask API.
 
-- [Kanban Board](https://kanboard-pa4b.vercel.app) -
+- <a href="https://kanboard-pa4b.vercel.app" target="_blank">Kanban Board</a> -
 
 Static Web Project Kanban Board (Flask & AJAX)
 This project is a web-based Kanban Board application using Flask as the backend and AJAX for dynamic interactions without page reloads. Users can create, move, and delete tasks across different columns (To Do, In Progress, Done). Flask manages the task data, while AJAX enables real-time task status updates. The user interface is built with CDN Bootstrap and JavaScript.
