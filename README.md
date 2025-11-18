@@ -1,5 +1,3 @@
-# Hi there, I'm <Your Name> 👋
-
 Welcome to my GitHub profile! Here are some stats about my contributions:
 
 ## GitHub Stats
